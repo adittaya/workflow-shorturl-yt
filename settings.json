@@ -1,0 +1,15 @@
+{
+  "active_account": "main",
+  "active_github": "main",
+  "comment_text": "Download link: {url}",
+  "mirror_title_prefix": "",
+  "mirror_description_suffix": "",
+  "privacy_status": "public",
+  "category_id": "22",
+  "check_interval_minutes": 15,
+  "max_per_cycle": 3,
+  "shortener_provider": "vplink",
+  "shortener_api_key": "",
+  "shortener_api_url": "",
+  "comment_moderation": "heldForReview"
+}
