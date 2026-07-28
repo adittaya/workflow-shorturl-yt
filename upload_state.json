@@ -1,1 +1,10 @@
-{"warmup_start":null,"warmup_complete":false,"total_uploaded":0,"last_upload_date":null,"last_upload_hour":null,"processed_hashes":[]}
+{
+  "account_created": "2026-07-28T01:03:28.169631",
+  "warmup_start": "2026-07-28T01:03:28.171769",
+  "warmup_complete": false,
+  "first_upload_date": null,
+  "total_uploaded": 0,
+  "last_upload_date": null,
+  "last_upload_hour": null,
+  "processed_hashes": []
+}
